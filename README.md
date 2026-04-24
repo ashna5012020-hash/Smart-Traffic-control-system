@@ -66,7 +66,6 @@ RFID-Traffic-Control-System/
 │── code/
 │   └── rfid_traffic_control.ino
 │── README.md
-│── images/ (optional)
 ```
 
 ---
